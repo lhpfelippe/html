@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Página Web</title>
+</head>
+<body>
+
+    <h1>Título Principal</h1>
+    
+    <p><mark>Este é um parágrafo marcado</mark>, utilizando a tag &lt;mark&gt;.</p>
+    
+    <p><small>Este é um parágrafo com texto em tamanho pequeno</small>, utilizando a tag &lt;small&gt;.</p>
+    
+    <p><i>Este é um texto em itálico</i>, utilizando a tag &lt;i&gt;.</p>
+    
+    <p><u>Este é um texto sublinhado</u>, utilizando a tag &lt;u&gt;.</p>
+    
+    <p><strong>Este é um texto em negrito</strong>, utilizando a tag &lt;strong&gt;.</p>
+    
+    <h2>Lista Ordenada</h2>
+    <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ol>
+    
+    <h2>Lista Não Ordenada</h2>
+    <ul>
+        <li>Item A</li>
+        <li>Item B</li>
+        <li>Item C</li>
+    </ul>
+    
+    <p>Este é um texto com <a href="#">um link</a>, utilizando a tag &lt;a&gt;.</p>
+    
+    <hr>
+    
+    <p>Texto com <sub>subscrito</sub>, utilizando a tag &lt;sub&gt;.</p>
+    
+    <p>Texto com <sup>superescrito</sup>, utilizando a tag &lt;sup&gt;.</p>
+    
+    <blockquote>
+        <p>Este é um bloco de citação, utilizando a tag &lt;blockquote&gt;.</p>
+    </blockquote>
+    
+    <p>Texto com <del>texto deletado</del>, utilizando a tag &lt;del&gt;.</p>
+    
+    <p>Este é um parágrafo com uma <abbr title="Abreviação">abbr</abbr>, utilizando a tag &lt;abbr&gt;.</p>
+
+</body>
+</html>
